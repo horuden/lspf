@@ -59,7 +59,7 @@ using namespace boost::posix_time;
 // ZWAIT    - Wait time to check if the application has gone into a wait-for-user-response (normally a few ms)
 // ZMAXWAIT - Max wait time to terminate the application if it has not gone into a wait-for-user-response (application may be looping)
 
-#define HOME            "/home/daniel"
+#define HOME            "/home/horuden"
 #define ZSPROF          HOME "/.lspf"
 #define ZUPROF          HOME "/.lspf"
 #define ZSYSPATH        HOME "/lspf"
